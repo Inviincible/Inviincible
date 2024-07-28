@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi Itz Invincible here
 - 🌱 I know Java,Kotlin, JavaScript
 - 💞️ Working on a private project..
 - 📫 How to reach me @itz_invincible(Discord)
